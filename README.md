@@ -4,7 +4,7 @@ A simple snake-like game built with HTML5 Canvas and JavaScript.
 
 ## Play the Game
 
-Visit [https://YOUR_USERNAME.github.io/train-snake-game](https://YOUR_USERNAME.github.io/train-snake-game) to play the game.
+Visit [https://curlup.github.io/sundai-train-snake-game](https://curlup.github.io/sundai-train-snake-game) to play the game.
 
 ## Controls
 - Arrow keys to change direction
